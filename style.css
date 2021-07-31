@@ -91,6 +91,7 @@ h3 {
   display: inline-block;
   border-radius: 25px;
   margin: 0 25px;
+  margin-top: 20px;
   background-color: red;
 }
 a {
