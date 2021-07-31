@@ -85,6 +85,8 @@ h3 {
 .email p {
   display: inline;
   font-weight: bold;
+  float: left;
+  margin: auto;
   color: rgb(50, 90, 255);
 }
 .social {
@@ -100,6 +102,8 @@ a {
 .emailImg {
   width: 20px;
   vertical-align: middle;
+  float: right;
+  margin: auto;
 }
 .link {
   width: 25px;
