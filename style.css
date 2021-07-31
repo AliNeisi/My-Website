@@ -1,0 +1,128 @@
+body {
+  background-color: #f8f9fa;
+  text-align: center;
+  font-family: sahel;
+  padding: 10px;
+}
+.logo {
+  width: 80px;
+  border-radius: 50%;
+  margin-top: 5px;
+  border: 1px solid black;
+}
+.title {
+  font-size: 20px;
+  margin: 0;
+  color: #333333;
+  font-weight: bold;
+}
+.job {
+  color: #767676;
+  margin: 0;
+  font-weight: 200;
+  font-size: 15px;
+}
+h3 {
+  color: #767676;
+  margin-top: 25px;
+  margin-bottom: 10px;
+  font-size: 15px;
+}
+.telegram,
+.instagram {
+  display: inline-block;
+  border-radius: 25px;
+  width: 160px;
+  margin: 0 auto;
+  padding: 9px 15px;
+}
+.telegram {
+  margin: 0;
+  background-color: #1c88d3;
+}
+.instagram {
+  margin: 0;
+  background-color: #e70889;
+}
+
+.contact:hover {
+  box-shadow: 0 0 20px darkgray;
+}
+.telImg {
+  width: 15px;
+}
+.telText {
+  display: inline-block;
+  margin: 0 10px;
+  color: white;
+  font-size: 20px;
+}
+.applications {
+  background-color: #e5f1ff;
+  text-align: start;
+  padding: 20px;
+  border-radius: 25px;
+  width: 410px;
+  margin: auto;
+}
+.applications img {
+  vertical-align: bottom;
+  width: 100px;
+  border-radius: 10px;
+}
+.applications p {
+  margin: 0;
+  display: inline-table;
+}
+.email {
+  border: 1px solid lightgray;
+  padding: 7.5px 16px;
+  width: 410px;
+  border-radius: 25px;
+  margin: auto;
+  text-align: center;
+}
+.email p {
+  display: inline;
+  font-weight: bold;
+  color: rgb(50, 90, 255);
+}
+.social {
+  display: inline-block;
+  border-radius: 25px;
+  margin: 0 25px;
+  background-color: red;
+}
+a {
+  text-decoration-line: none;
+}
+.emailImg {
+  width: 20px;
+  vertical-align: middle;
+}
+.link {
+  width: 25px;
+  vertical-align: middle;
+}
+.developer {
+  display: inline-block;
+  margin: 20px auto;
+  margin-bottom: 0;
+  padding: 8px 25px;
+  border: teal dashed 1px;
+  border-radius: 20px;
+}
+table {
+  display: inline-table;
+  text-align: center;
+}
+table h3 {
+  text-align: center;
+  font-weight: bold;
+  color: #767676;
+  margin: 0;
+}
+@font-face {
+  font-family: sahel;
+  src: url("Sahel.ttf");
+}
